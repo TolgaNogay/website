@@ -1,5 +1,4 @@
 <div align="center">
-<img alt="Portfolio" src="https://your-image-url.com/preview.png" width="90%">
 </div>
 
 # TolgaNogay/website
